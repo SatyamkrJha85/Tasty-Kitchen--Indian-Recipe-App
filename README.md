@@ -1,6 +1,6 @@
 # Tasty-Kitchen--Indian-Recipe-App
 
-*Features
+Features
 1.List of recipe categories
 2.Search recipes from the network
 3.Infinite scroll with pagination
