@@ -1,5 +1,4 @@
 # Tasty-Kitchen--Indian-Recipe-App
-## Live Link - https://play.google.com/store/apps/details?id=com.recipe.recipeapphome
 
 ## Features
 - List of recipe categories
